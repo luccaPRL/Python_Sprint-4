@@ -17,7 +17,6 @@ O programa simula um **painel de prevenção a enchentes**, oferecendo as seguin
 1. **Previsão de chuva e nível de risco**  
    - Geração aleatória de porcentagens de chuva.  
    - Cálculo automático do nível de risco (baixo, médio ou alto).  
-   - Gravação da previsão em um arquivo (`chuva.txt`) — manipulação de arquivos.
 
 2. **Locais de risco**  
    - Exibição aleatória de 3 locais com maior probabilidade de alagamento.
