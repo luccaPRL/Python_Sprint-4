@@ -1,4 +1,4 @@
-# 🌧️ Projeto Global Solution - Dashboard de Enchentes
+# 🌧️ Projeto Global Solution
 
 Este repositório contém a solução desenvolvida para o desafio da **Global Solution 2025.1 da FIAP**, com foco na criação de um **sistema simples e funcional para prevenção e orientação em casos de enchentes**.
 
@@ -38,7 +38,6 @@ O programa simula um **painel de prevenção a enchentes**, oferecendo as seguin
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-- **Python 3.x**
 - Apenas comandos e estruturas básicas:
   - Condicionais (`if`, `elif`, `else`)
   - Loops (`while`, `for`)
@@ -57,20 +56,3 @@ O programa simula um **painel de prevenção a enchentes**, oferecendo as seguin
 - **Diego Garcia Tosta** — RM: 556724  
 - **Joud Jihad Jaber** — RM: 556482
 
----
-
-## 🎯 Objetivo Pedagógico
-
-Este projeto foi desenvolvido com foco em:
-
-- Aplicação prática dos conteúdos ensinados em sala de aula.  
-- Desenvolvimento de soluções voltadas a problemas reais, como enchentes.  
-- Integração de lógica de programação, responsabilidade social e pensamento computacional.
-
----
-
-## 📌 Observações
-
-- O sistema é **simulado**, ou seja, os dados são gerados aleatoriamente para fins didáticos.
-- O projeto não depende de bibliotecas externas nem tecnologias avançadas.
-- Toda a lógica foi construída com base em conteúdo visto até o momento na disciplina.
